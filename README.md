@@ -17,7 +17,7 @@ A responsive web application that fetches and displays the latest news articles 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Axios, Bootstrap  
-- **API**: [NewsAPI.org](https://newsapi.org) or any public news API  
+- **API**: [NewsAPI.org](https://newsapi.org)
 
 ---
 
