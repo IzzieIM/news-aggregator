@@ -25,5 +25,5 @@ A responsive web application that fetches and displays the latest news articles 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/news-aggregator.git
+   git clone https://github.com/IzzieIM/news-aggregator.git
    cd news-aggregator
